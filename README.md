@@ -2,9 +2,9 @@
 
 基于web快速生成不同尺寸图片工具
 
-[img](./static/home.jpg)
+[img](./home.jpg)
 
-[img](./static/preview.jpg)
+[img](./preview.jpg)
 
 
 ## 环境要求 environment require
