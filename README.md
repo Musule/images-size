@@ -18,7 +18,7 @@ docker pull liyinchi/images-size:latest
 ```
 
 ```bash
-docker run -itd --name images-size -p 5000:5000 images-size
+docker run -d --name images-size -p 5000:5000 liyinchi/images-size
 ```
 
 ## 浏览器访问
